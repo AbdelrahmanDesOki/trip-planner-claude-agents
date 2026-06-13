@@ -4,6 +4,22 @@ A multi-agent AI travel planner powered by **Claude**, **LangGraph**, and **Reac
 
 ---
 
+## Screenshots
+
+### Planning Form — destination, days, budget, purpose & accommodation
+![Form](docs/screenshots/form.png)
+
+### Result — trip overview, hotel recommendation & day-by-day itinerary
+![Result](docs/screenshots/result.png)
+
+### Budget Breakdown — visual bar chart with total & per-person cost
+![Budget](docs/screenshots/budget.png)
+
+### Travel Tips — transport, dining & travel tips
+![Tips](docs/screenshots/trips.png)
+
+---
+
 ## How It Works
 
 ```
